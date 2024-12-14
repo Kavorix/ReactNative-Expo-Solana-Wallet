@@ -117,7 +117,7 @@ const getSolanaPrice = async () => {
 
 This screen shows two options:
 
-![Settings](https://github.com/Kavorix/ReactNative-Expo-Solana-Wallet/blob/main/screenshots/settings.png)
+![Settings](https://github.com/Kavorix/ReactNative-Expo-Solana-Wallet/blob/main/screenshots/setting.png)
 
 #### Backup
 
