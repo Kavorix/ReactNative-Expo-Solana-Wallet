@@ -1,7 +1,5 @@
 # Solana Wallet Cross-Platform App with Expo, Web3 & React Native
 
-This is a simple Solana Wallet Cross-Platform App built with Expo, Web3 & React Native to learn about web3.
-
 ## Screens and Features
 
 ### Welcome
